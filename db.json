@@ -1,0 +1,48 @@
+{
+    "products":[
+        
+            {
+                "name" : "Laptop",
+                "price": 30000,
+                "id" : 1,
+                "url":"https://m.media-amazon.com/images/I/61km1VkaCsL._AC_UY218_.jpg",
+                "discribution":"Lenovo IdeaPad Slim 3 10th Gen Intel Core i3 15.6 (39.62cm) FHD Thin & Light Laptop (8GB/256GB SSD/UHD Graphics/Windows 11/MS Office 2021/Platinum Grey/1.7Kg), 81WB018EIN"
+            },
+            {
+                "name" : "Watch",
+                "price" : 2000,
+                "id" : 2,
+                "url":"https://m.media-amazon.com/images/I/61NZ9CWJcEL._UY550_.jpg",
+                "discribution":"Digital Watch for Boys or Girls or Unisex Birthday Gift Digital Watch for Boys & Girls"
+            },
+            {
+                "name" : "Shirt",
+                "price" : 800,
+                "id" : 3,
+                "url":"https://m.media-amazon.com/images/I/812CE9vZCtL._UX569_.jpg",
+                "discribution":"Machine Wash,Regular,Soft and Breathable 100% Cotton Fabric,Regular Collar long sleeve shirt,Check pattern,Single pocket at chest,Pair it up with dark denims or classic chinos. Style it up with white sneakers for a sporty casual look"
+            },
+            {
+                "name" : "Pants",
+                "price" : 1000,
+                "id" : 4,
+                "url":"https://m.media-amazon.com/images/I/71PlNaxnggL._AC_UL320_.jpg",               
+                 "discribution":" Regular,100% Cotton (non-stretch),Solid,Side Scoop pockets and back welt pockets,Button closure with zip fly,Pair it up with a solid casual shirt or a Polo and sneakers for a stylish casual look"
+            },
+            {
+                "name":"Travel Diary",
+                "price": 599,
+                "id":5,
+                "url":"https://m.media-amazon.com/images/I/817TyZBrgpL._AC_UY218_.jpg",
+                "discribution":"CAVALO - Be Unique Leather Diary Embossed With Leaf of Tree & a Quote Antique Handmade Personal Leather Bound Diary cum Notepad for Men and Women Plain Paper of 5×7 Inch Size 240 Pages Perfect for Travel Diary and Best Choice for Valentines Day Gift"
+            },
+            {
+                "name":"Guitar",
+                "price": 5399,
+                "id":6,
+                "url":"https://images-eu.ssl-images-amazon.com/images/I/411wK9TnTBL._SX300_SY300_QL70_FMwebp_.jpg",
+                "discribution":"Kadence Frontier guitar with Online Guitar learning course, Wine Red Acoustic Guitar with Die Cast Keys, Set of Strings, Strap, Picks and Bag (Wine Red, Acoustic)"
+            }
+    
+    ]
+}
